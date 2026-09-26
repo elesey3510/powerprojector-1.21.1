@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "powerprojector:block/spotlight" },
+    "facing=south": { "model": "powerprojector:block/spotlight", "y": 180 },
+    "facing=east":  { "model": "powerprojector:block/spotlight", "y": 90 },
+    "facing=west":  { "model": "powerprojector:block/spotlight", "y": 270 },
+    "facing=up":    { "model": "powerprojector:block/spotlight", "x": 270 },
+    "facing=down":  { "model": "powerprojector:block/spotlight", "x": 90 }
+  }
+}

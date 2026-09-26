@@ -1,0 +1,9 @@
+{
+  "block.powerprojector.spotlight": "Прожектор",
+  "item.powerprojector.spotlight": "Прожектор",
+
+  "tooltip.powerprojector.hold_shift": "Зажмите [Shift] для информации",
+  "tooltip.powerprojector.spotlight.summary": "Мощный направленный светильник. Работает как обычный держатель лампочки",
+  "tooltip.powerprojector.spotlight.condition": "При подключении шнура питания Power Grid:",
+  "tooltip.powerprojector.spotlight.behaviour": "Проецирует физический конус света. При просадке напряжения свет тускнеет."
+}

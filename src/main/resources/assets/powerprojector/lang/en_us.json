@@ -1,0 +1,9 @@
+{
+  "block.powerprojector.spotlight": "Power Spotlight",
+  "item.powerprojector.spotlight": "Power Spotlight",
+
+  "tooltip.powerprojector.hold_shift": "Hold [Shift] for Summary",
+  "tooltip.powerprojector.spotlight.summary": "A powerful directional spotlight. Works as light fixture but with veil light",
+  "tooltip.powerprojector.spotlight.condition": "When connected to a Power Grid cord:",
+  "tooltip.powerprojector.spotlight.behaviour": "Projects a dynamic light cone. Under-voltage causes the beam to dim."
+}
