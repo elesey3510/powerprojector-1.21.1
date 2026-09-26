@@ -1,8 +1,6 @@
 modLoader="javafml" #mandatory
 
 loaderVersion="${loader_version_range}" #mandatory
-
-# Лицензия (MIT или Apache-2.0)
 license="MIT"
 
 [[mods]] 
@@ -12,6 +10,8 @@ modId="${mod_id}"
 version="${mod_version}" 
 
 displayName="Power Projector"
+
+logoFile="icon.png"
 
 authors="elesey3510"
 
